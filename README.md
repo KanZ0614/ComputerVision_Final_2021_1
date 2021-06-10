@@ -4,7 +4,7 @@ Landmark 및 들로네 삼각기법을 이용한 FaceSwapping 구현
 
 활용
 
-- 컴비전_프로젝트.ipynb는 google colab에서 사용한 파일을 그대로 커밋
+- 컴비전_프로젝트.ipynb는 google colab에서 사용한 파일을 그대로 옮김
 - 실제 코드를 확인하기 위해선 LandMark, Triangle, Faceswap.py 코드 참조
 - 디렉토리 내에 저장되어 있는 이미지 샘플, 랜드마크 dat 파일을 활용하여 페이스 스와핑 구현
 
